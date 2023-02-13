@@ -1,0 +1,7 @@
+2. Display the content of the current (root) directory
+
+'''
+ls
+'''
+
+	
